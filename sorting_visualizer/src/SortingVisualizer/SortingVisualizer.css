@@ -1,10 +1,16 @@
 .array-container {
-    position: absolute;
-    left: 100px;
+    /* position: relative; */
+    left: 50px;
+    right: 50px;
+    /* align-content: center; */
+    /* align-self: center; */
+    /* display: flex; */
+    float: middle;
 }
   
 .array-bar {
     display: inline-block;
+    /* display: none; */
     width: 5px;
     background-color: turquoise;
     margin: 0px 2px;

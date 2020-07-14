@@ -12,11 +12,7 @@ code {
     monospace;
 }
 
-.array-container {
-  display: flex;
-}
-
-.array-bar {
+/* .array-bar {
   display: inline;
   width: 30%;
-}
+} */
